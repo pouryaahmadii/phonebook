@@ -1,0 +1,18 @@
+# محیط مجازی
+venv/
+env/
+
+# فایل‌های pycache
+__pycache__/
+*.pyc
+
+# دیتابیس محلی
+db.sqlite3
+
+# فایل‌های محیطی
+.env
+
+# IDE و سیستم
+.vscode/
+.idea/
+.DS_Store
